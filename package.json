@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/300aj11/BPMS.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ajmal",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
